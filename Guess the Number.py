@@ -1,6 +1,6 @@
 import random
 a = random.randint(1,15)
-print('\nLet us start the number gussing game.' )
+print('\nLet us start the number guessing game.' )
 print('You have four chances to guess the number.')
 print('Hint : The number is between 1 and 15 both included \n')
 
